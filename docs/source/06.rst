@@ -3,6 +3,7 @@
 
 .. list-table:: Функции белков
    :widths: 75 100
+   :class: longtable
    :header-rows: 1
 
    * - Функция
