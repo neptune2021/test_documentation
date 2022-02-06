@@ -1,22 +1,21 @@
 Строение и функции белков
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
+Содержание
 --------
 
 .. toctree::
 
-   usage
-   api
+   Строение белков
+   Аминокислотный состав белков
+   Пептидная связь
+   Пространственная организация белковых молекул
+   Свойства белков
+   Функции белков
+   Биосинтез белков
+   Генетический код и его свойства
+   Реакции матричного синтеза
+   Строение гена эукариот
+   Транскрипция у эукариот
+   Трансляция
+   Транскрипция и трансляция у прокариот
