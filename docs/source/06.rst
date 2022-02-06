@@ -1,7 +1,7 @@
 Функции белков
 ======================
 
-.. list-table:: Title
+.. list-table:: Функции белков
    :widths: 25 25 50
    :header-rows: 1
 
