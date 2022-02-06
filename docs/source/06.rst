@@ -4,7 +4,7 @@
    :label: co2
 
 .. list-table:: Функции белков
-   :widths: 75 250
+   :widths: 75 100
    :header-rows: 1
 
    * - Функция
