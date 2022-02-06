@@ -10,4 +10,6 @@
 
 .. image:: img/image14.png
   :width: 200
-  :align: cente
+  :align: center
+
+.. centered:: 1 — ДНК; 2 — РНК-полимераза; 3 — Нуклеозидтрифосфаты ГТФ, ЦТФ, АТФ, УТФ.
